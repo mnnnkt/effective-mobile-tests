@@ -121,3 +121,4 @@ allure serve --host 0.0.0.0 --port 5050 allure-results
 Pytest: https://docs.pytest.org
 Playwright: https://playwright.dev/
 Allure: https://allurereport.org/docs/
+
