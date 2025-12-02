@@ -7,8 +7,8 @@
 
 
 ### Требования к окружению:
-*Python 3.10+
-*Java 8+ (требуется для Allure)
+* Python 3.10+
+* Java 8+ (требуется для Allure)
 
 
 ## Установка зависимостей:
@@ -105,6 +105,7 @@ allure serve --host 0.0.0.0 --port 5050 allure-results
 * Pytest: https://docs.pytest.org
 * Playwright: https://playwright.dev/
 * Allure: https://allurereport.org/docs/
+
 
 
 
